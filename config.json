@@ -1,13 +1,13 @@
 {
-    "token": "MTU1NDE1NzQ2OTk4MTIyMDkyNA.GZeVNZ.yS62XTDwmXqFDPtomXfNEg_-K-yQxHU6gsFoQc",
+    "token": "YOURE_BOT_TOKEN",
     "prefix": "$",
     "owner_ids": [
-        1401255591749488781
+        YOURE_ID
     ],
 
     "log_webhook": {
     "enabled": true,
-    "url": "https://discord.com/api/webhooks/1556757945843449916/7MYKbMya0QMImO5xcnZeKFwHgQcZ-AulKe_ZXudq6L9250SiVim8BPVb1gdq7iRIzspF"
+    "url": "YOURE_WEBHOOK"
     },
     
     "nuke": {
